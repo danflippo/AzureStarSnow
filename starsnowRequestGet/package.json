@@ -1,0 +1,14 @@
+{
+  "name": "azure-star-snow",
+  "author": "Dan Flippo <dan.flippo@snowflake.com>",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "lodash-core": "^4.17.19"
+  }
+}
